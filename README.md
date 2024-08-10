@@ -27,12 +27,6 @@
 ##### APP DEMO
 
 
-## Video Demo
-
-[![Watch the video](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID/maxresdefault.jpg)](https://drive.google.com/uc?export=view&id=17YMxfpVqj9EjFFUJWG6mWatAB1RAYZVJ)
-
-
-
 
 ## Video Demo
 
