@@ -6,8 +6,8 @@
  
 
 
-(https://github.com/user-attachments/assets/eb7e65cd-a79b-47cc-9108-658fe2e16461)
-ctures/Screenshots/Screenshot%202024-08-10%20144638.png
+![Screenshot 2024-08-10 144638](https://github.com/user-attachments/assets/23db667b-f437-4bdc-9c6b-2988b420a82c)
+
 
 
 ![]
