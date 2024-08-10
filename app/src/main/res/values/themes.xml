@@ -1,0 +1,37 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- set color for my musicplayerapp example like com.parth73 -->
+    <style name="Theme.MusicPlayer" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#03A9F4</item>
+        <item name="colorPrimaryVariant">#03A9F4</item>
+        <item name="colorOnPrimary">#1E0150</item>
+
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">#E4B703</item>
+        <item name="colorSecondaryVariant">#E18A07</item>
+        <item name="colorOnSecondary">#12EAA6</item>
+
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">#8B03A2B1</item> <!-- lightblue custom color -->
+
+        <!-- Customize your theme here. -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </style>
+
+</resources>
