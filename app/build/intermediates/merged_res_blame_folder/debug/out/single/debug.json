@@ -1,0 +1,158 @@
+[
+    {
+        "merged": "com.example.musicplayer.app-merged_res-52:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.musicplayer.app-main-54:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.musicplayer.app-merged_res-52:/layout_fragment_playing_song.xml.flat",
+        "source": "com.example.musicplayer.app-main-54:/layout/fragment_playing_song.xml"
+    },
+    {
+        "merged": "com.example.musicplayer.app-merged_res-52:/drawable_down.xml.flat",
+        "source": "com.example.musicplayer.app-main-54:/drawable/down.xml"
+    },
+    {
+        "merged": "com.example.musicplayer.app-merged_res-52:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.musicplayer.app-main-54:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.musicplayer.app-merged_res-52:/layout_minizmedlayout.xml.flat",
+        "source": "com.example.musicplayer.app-main-54:/layout/minizmedlayout.xml"
+    },
+    {
+        "merged": "com.example.musicplayer.app-merged_res-52:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.musicplayer.app-main-54:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.musicplayer.app-merged_res-52:/drawable_previous.xml.flat",
+        "source": "com.example.musicplayer.app-main-54:/drawable/previous.xml"
+    },
+    {
+        "merged": "com.example.musicplayer.app-merged_res-52:/mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "com.example.musicplayer.app-main-54:/mipmap-anydpi-v33/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.musicplayer.app-merged_res-52:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.musicplayer.app-main-54:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.musicplayer.app-merged_res-52:/anim_fade_in.xml.flat",
+        "source": "com.example.musicplayer.app-main-54:/anim/fade_in.xml"
+    },
+    {
+        "merged": "com.example.musicplayer.app-merged_res-52:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.musicplayer.app-main-54:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.musicplayer.app-merged_res-52:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.musicplayer.app-main-54:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.musicplayer.app-merged_res-52:/layout_activity_main.xml.flat",
+        "source": "com.example.musicplayer.app-main-54:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.musicplayer.app-merged_res-52:/layout_fragment_song_list.xml.flat",
+        "source": "com.example.musicplayer.app-main-54:/layout/fragment_song_list.xml"
+    },
+    {
+        "merged": "com.example.musicplayer.app-merged_res-52:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.musicplayer.app-main-54:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.musicplayer.app-merged_res-52:/drawable_next.xml.flat",
+        "source": "com.example.musicplayer.app-main-54:/drawable/next.xml"
+    },
+    {
+        "merged": "com.example.musicplayer.app-merged_res-52:/drawable_up.xml.flat",
+        "source": "com.example.musicplayer.app-main-54:/drawable/up.xml"
+    },
+    {
+        "merged": "com.example.musicplayer.app-merged_res-52:/drawable_album.xml.flat",
+        "source": "com.example.musicplayer.app-main-54:/drawable/album.xml"
+    },
+    {
+        "merged": "com.example.musicplayer.app-merged_res-52:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.musicplayer.app-main-54:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.musicplayer.app-merged_res-52:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.musicplayer.app-main-54:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.musicplayer.app-merged_res-52:/layout_songlistitem.xml.flat",
+        "source": "com.example.musicplayer.app-main-54:/layout/songlistitem.xml"
+    },
+    {
+        "merged": "com.example.musicplayer.app-merged_res-52:/drawable_play.xml.flat",
+        "source": "com.example.musicplayer.app-main-54:/drawable/play.xml"
+    },
+    {
+        "merged": "com.example.musicplayer.app-merged_res-52:/drawable_pause.xml.flat",
+        "source": "com.example.musicplayer.app-main-54:/drawable/pause.xml"
+    },
+    {
+        "merged": "com.example.musicplayer.app-merged_res-52:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.musicplayer.app-main-54:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.musicplayer.app-merged_res-52:/drawable_playwhite.xml.flat",
+        "source": "com.example.musicplayer.app-main-54:/drawable/playwhite.xml"
+    },
+    {
+        "merged": "com.example.musicplayer.app-merged_res-52:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.musicplayer.app-main-54:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.musicplayer.app-merged_res-52:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.musicplayer.app-main-54:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.musicplayer.app-merged_res-52:/anim_slide_up.xml.flat",
+        "source": "com.example.musicplayer.app-main-54:/anim/slide_up.xml"
+    },
+    {
+        "merged": "com.example.musicplayer.app-merged_res-52:/anim_fade_out.xml.flat",
+        "source": "com.example.musicplayer.app-main-54:/anim/fade_out.xml"
+    },
+    {
+        "merged": "com.example.musicplayer.app-merged_res-52:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.musicplayer.app-main-54:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.musicplayer.app-merged_res-52:/drawable_thumb.xml.flat",
+        "source": "com.example.musicplayer.app-main-54:/drawable/thumb.xml"
+    },
+    {
+        "merged": "com.example.musicplayer.app-merged_res-52:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.musicplayer.app-main-54:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.musicplayer.app-merged_res-52:/xml_backup_rules.xml.flat",
+        "source": "com.example.musicplayer.app-main-54:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.musicplayer.app-merged_res-52:/navigation_nav_graph.xml.flat",
+        "source": "com.example.musicplayer.app-main-54:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "com.example.musicplayer.app-merged_res-52:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.musicplayer.app-main-54:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.musicplayer.app-merged_res-52:/drawable_back.xml.flat",
+        "source": "com.example.musicplayer.app-main-54:/drawable/back.xml"
+    },
+    {
+        "merged": "com.example.musicplayer.app-merged_res-52:/drawable_volumefull.xml.flat",
+        "source": "com.example.musicplayer.app-main-54:/drawable/volumefull.xml"
+    },
+    {
+        "merged": "com.example.musicplayer.app-merged_res-52:/anim_slide_down.xml.flat",
+        "source": "com.example.musicplayer.app-main-54:/anim/slide_down.xml"
+    },
+    {
+        "merged": "com.example.musicplayer.app-merged_res-52:/drawable_lowvolume.xml.flat",
+        "source": "com.example.musicplayer.app-main-54:/drawable/lowvolume.xml"
+    }
+]

@@ -1,0 +1,6 @@
+[
+    {
+        "merged": "com.example.musicplayer.app-mergeDebugResources-51:/layout/fragment_song_list.xml",
+        "source": "com.example.musicplayer.app-main-54:/layout/fragment_song_list.xml"
+    }
+]
