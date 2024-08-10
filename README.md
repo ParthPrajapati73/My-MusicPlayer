@@ -7,10 +7,11 @@
 
 
 ![Screenshot 2024-08-10 144638](https://github.com/user-attachments/assets/23db667b-f437-4bdc-9c6b-2988b420a82c)
+![Screenshot 2024-08-10 143149](https://github.com/user-attachments/assets/dd45a72d-cdea-46ba-bf28-66064be637f5)
+![Screenshot 2024-08-10 143118](https://github.com/user-attachments/assets/143e4527-13e1-4dcb-a8c1-6b078cc02359)
 
 
 
-![]
 
 
 #### Features 
