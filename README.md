@@ -34,3 +34,10 @@
 
 
 Working for futher feauters add like background play 
+
+References and resources:-
+
+Android Developers - Kotlin for Android Development
+[Link](https://kotlinlang.org/docs/android-overview.html)
+[Link](https://developer.android.com/reference)
+
